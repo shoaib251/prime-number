@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    display: grid;
+    place-items: center;
+    background-color: blueviolet;
+    border-radius: 30px;
+    width: 50%;
+}
+body{
+    display: grid;
+    place-items: center;
+    background-color: aqua;
+
+
+}
+.button{
+    text-align: center;
+    border-radius: 40px;
+    background-color: bisque;
+
+}
